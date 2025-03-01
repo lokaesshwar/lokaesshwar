@@ -51,7 +51,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 </p>
 <br/>
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mogilogan&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
 </p>
 
 </details>

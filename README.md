@@ -47,7 +47,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogilogan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </p>
 <br/>
 <p align="center">

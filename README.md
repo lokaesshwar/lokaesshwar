@@ -6,9 +6,7 @@
 
 🚀 Outside of coding, I prioritize staying current with industry trends and continuously honing my craft. I look forward to the opportunity to contribute to your projects and drive success together!!!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=lokaesshwar&theme=onedark)
 
 
 

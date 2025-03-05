@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Lokaesshwar! 👋
++<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Lokaesshwar! 👋
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+a+Full+Stack+Developer;I'm+a+Competitive+Programmer;I'm+a+React+Developer)](https://git.io/typing-svg)
@@ -48,21 +48,41 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/mogilogan"><img align="left" width="150" height="150" src="./assets/findme.gif"></a>
-- Learning in public on <a href="https://moginder.vercel.app/">moginder.dev</a> 📹 ✍🏾
--  <a href="https://medium.com/@mogiegan"> Medium</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/mogiegan/">LinkedIn</a> 💼
+## Badges
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/AyushB21/AyushB21/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-26.png" width="104" height="104" alt="Postman API Fundamentals">
+        <br>
+        <a href="https://api.badgr.io/public/assertions/JbjZpNIFSUOd18ND5WRnxA?identity__email=ayushbh0612%40gmail.com">Postman API Fundamentals</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/AyushB21/AyushB21/blob/main/cloud-digital-leader-certification.png" width="104" height="104" alt="Google Cloud Digital Leader">
+        <br>
+        <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">Google Cloud Digital Leader</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/AyushB21/AyushB21/blob/main/google-project-management-professional-certificate.2.png" width="104" height="104" alt="Google Project Management Professional">
+        <br>
+        <a href="https://www.credly.com/badges/6ee0335e-6323-4d8a-9456-533d1e9d2854/public_url">Google Project Management Professional</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 -----
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogilogan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </p>
 <br/>
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mogilogan&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
 </p>
 
 </details>

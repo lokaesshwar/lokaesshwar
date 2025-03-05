@@ -54,24 +54,23 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/AyushB21/AyushB21/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-26.png" width="104" height="104" alt="Postman API Fundamentals">
+        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/postman-api-badge.png" width="104" height="104" alt="Postman API Fundamentals">
         <br>
-        <a href="https://api.badgr.io/public/assertions/JbjZpNIFSUOd18ND5WRnxA?identity__email=ayushbh0612%40gmail.com">Postman API Fundamentals</a>
+        <a href="https://api.badgr.io/public/assertions/6DkE6iGYTnWbCPUYqYEHBQ">Postman API Fundamentals</a>
       </td>
       <td align="center">
-        <img src="https://github.com/AyushB21/AyushB21/blob/main/cloud-digital-leader-certification.png" width="104" height="104" alt="Google Cloud Digital Leader">
+        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/aws-educate-badge.png" width="104" height="104" alt="AWS Educate Introduction to Cloud 101">
         <br>
-        <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">Google Cloud Digital Leader</a>
-      </td>
-      <td align="center">
-        <img src="https://github.com/AyushB21/AyushB21/blob/main/google-project-management-professional-certificate.2.png" width="104" height="104" alt="Google Project Management Professional">
-        <br>
-        <a href="https://www.credly.com/badges/6ee0335e-6323-4d8a-9456-533d1e9d2854/public_url">Google Project Management Professional</a>
+        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624">AWS Educate Introduction to Cloud 101</a>
       </td>
     </tr>
   </table>
 </div>
 
+
+
+
+---
 
 
 -----

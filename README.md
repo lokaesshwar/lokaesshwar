@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Moginder! 👋
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Lokaesshwar! 👋
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+a+Full+Stack+Developer;I'm+a+Competitive+Programmer;I'm+a+React+Developer)](https://git.io/typing-svg)
@@ -7,12 +7,12 @@
 
 
 
-I'm **`Moginder`** an 22 y.o. Electronic-Communication engineering graduate from PY "Puducherry",
+I'm **`Lokaesshwar`** an 22 y.o. CS engineering student from VIT "BHOPAL",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 📜 I’m work with **JavaScript** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/mogilogan](https://github.com/mogilogan)
+- 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/)
 - 💬 Ask me about **Physics** or **JS**.
 - 🐧 I like **GNU/Linux**.
 - 📫 How to reach me **mogiegan@gmail.com**

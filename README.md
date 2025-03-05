@@ -14,8 +14,8 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 📜 I’m work with **JavaScript** projects.
 - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/)
 - 💬 Ask me about **Biology** or **JS**.
-- 🐧 I like **GNU/Linux**.
-- 📫 How to reach me **mogiegan@gmail.com**
+- 🐧 Linux Enthusiast & FOSS supporter.
+- 📫 How to reach me **lokaesshwar@gmail.com**
 
 
 **Languages and Tools:**  

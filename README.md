@@ -21,7 +21,7 @@
 I'm **`Lokaesshwar`** an 22 y.o. CS engineering student from VIT "BHOPAL",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
+- 👀 Looking to collaborate on **open-source projects**, currently contributing to **GSoC organizations**
 - 📜 I work with **JavaScript** projects.
 - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/)
 - 💬 Either ask me about **Biology** or **JS** 😊

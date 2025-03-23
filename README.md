@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+a+Full+Stack+Developer;I'm+a+Competitive+Programmer;I'm+a+React+Developer)](https://git.io/typing-svg)
 
 <p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/lokaesyuke/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="blank">
+  <a href="https://leetcode.com/u/Lokaesshwar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="blank">
+  <a href="https://www.kaggle.com/lokaesshwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
@@ -59,13 +59,13 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
         <br>
         <a href="https://api.badgr.io/public/assertions/JbjZpNIFSUOd18ND5WRnxA?identity__email=ayushbh0612%40gmail.com">Postman API Fundamentals</a>
       </td>
-<!--       <td align="center">
+       <td align="center">
         <img src="https://github.com/AyushB21/AyushB21/blob/main/cloud-digital-leader-certification.png" width="104" height="104" alt="Google Cloud Digital Leader">
         <br>
         <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">Google Cloud Digital Leader</a>
       </td>
-      -->
-    </tr>
+      
+</tr>
   </table>
 </div>
 

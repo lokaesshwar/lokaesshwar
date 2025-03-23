@@ -57,7 +57,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
       <td align="center">
         <img src="https://github.com/AyushB21/AyushB21/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-26.png" width="104" height="104" alt="Postman API Fundamentals">
         <br>
-        <a href="https://api.badgr.io/public/assertions/JbjZpNIFSUOd18ND5WRnxA?identity__email=ayushbh0612%40gmail.com">Postman API Fundamentals</a>
+        <a href="https://www.credly.com/earner/earned/share/1e53dcd3-b994-4836-989b-ab5fd9e44624">Postman API Fundamentals</a>
       </td>
        <td align="center">
         <img src="https://github.com/AyushB21/AyushB21/blob/main/cloud-digital-leader-certification.png" width="104" height="104" alt="Google Cloud Digital Leader">

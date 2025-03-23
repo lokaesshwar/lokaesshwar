@@ -55,14 +55,14 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/AyushB21/AyushB21/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-26.png" width="104" height="104" alt="Postman API Fundamentals">
+        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/postman%20logo.png" width="104" height="104" alt="Postman API Fundamentals">
         <br>
-        <a href="https://www.credly.com/earner/earned/share/1e53dcd3-b994-4836-989b-ab5fd9e44624">Postman API Fundamentals</a>
+        <a href="https://drive.google.com/file/d/1lzuXRsfERvwxEknN0CIUKDle3WSHCmBx/view?usp=sharing">Postman API Fundamentals</a>
       </td>
        <td align="center">
-        <img src="https://github.com/AyushB21/AyushB21/blob/main/cloud-digital-leader-certification.png" width="104" height="104" alt="Google Cloud Digital Leader">
+        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/aws%20logo.png" width="104" height="104" alt="AWS-Introduction to Cloud 101">
         <br>
-        <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">Google Cloud Digital Leader</a>
+        <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">AWS-Introduction to Cloud 101</a>
       </td>
       
 </tr>
@@ -74,9 +74,9 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 -----
 <details>
 <summary>📈 My GitHub Stats</summary>
-<p align="center">
+<!-- <p align="center">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</p>
+</p> -->
 <br/>
 <p align="center">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />

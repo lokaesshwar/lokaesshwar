@@ -22,28 +22,28 @@ I'm **`Lokaesshwar`** an 22 y.o. CS engineering student from VIT "BHOPAL",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 📜 I’m work with **JavaScript** projects.
+- 📜 I work with **JavaScript** projects.
 - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/)
-- 💬 Ask me about **Biology** or **JS**.
+- 💬 Either ask me about **Biology** or **JS** 😊
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 How to reach me **lokaesshwar@gmail.com**
 
 
 **Languages and Tools:**  
 
-<code><img height="30" src="./assets/tech/React.png"></code>
-<code><img height="30" src="./assets/tech/Next.js.png"></code>
-<code><img height="30" src="./assets/tech/JavaScript.png"></code>
-<code><img height="30" src="./assets/tech/TypeScript.png"></code>
-<code><img height="30" src="./assets/tech/Node.png"></code>
-<code><img height="30" src="./assets/tech/Java.png"></code>
-<code><img height="30" src="./assets/tech/Express.png"></code>
-<code><img height="30" src="./assets/tech/Redux.png"></code>
-<code><img height="30" src="./assets/tech/Firebase.png"></code>
-<code><img height="30" src="./assets/tech/MySQL.png"></code>
-<code><img height="30" src="./assets/tech/MongoDB.png"></code>
-<code><img height="30" src="./assets/tech/AWS.png"></code>
-<code><img height="30" src="./assets/tech/Python.png"></code>
+<code><img height="30" src="./tech/React.png"></code>
+<code><img height="30" src="./tech/Next.js.png"></code>
+<code><img height="30" src="./tech/JavaScript.png"></code>
+<code><img height="30" src="./tech/TypeScript.png"></code>
+<code><img height="30" src="./tech/Node.png"></code>
+<code><img height="30" src="./tech/Java.png"></code>
+<code><img height="30" src="./tech/Express.png"></code>
+<code><img height="30" src="./tech/Redux.png"></code>
+<code><img height="30" src="./tech/Firebase.png"></code>
+<code><img height="30" src="./tech/MySQL.png"></code>
+<code><img height="30" src="./tech/MongoDB.png"></code>
+<code><img height="30" src="./tech/AWS.png"></code>
+<code><img height="30" src="./tech/Python.png"></code>
 
 
 

@@ -28,7 +28,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 How to reach me **lokaesshwar@gmail.com**
 
-<!--
+
 **Languages and Tools:**  
 
 <code><img height="30" src="./assets/tech/React.png"></code>
@@ -44,7 +44,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <code><img height="30" src="./assets/tech/MongoDB.png"></code>
 <code><img height="30" src="./assets/tech/AWS.png"></code>
 <code><img height="30" src="./assets/tech/Python.png"></code>
--->
+
 
 
 

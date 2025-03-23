@@ -62,7 +62,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
        <td align="center">
         <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/aws%20logo.png" width="104" height="104" alt="AWS-Introduction to Cloud 101">
         <br>
-        <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">AWS-Introduction to Cloud 101</a>
+        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url">AWS-Introduction to Cloud 101</a>
       </td>
       
 </tr>

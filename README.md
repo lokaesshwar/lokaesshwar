@@ -18,7 +18,7 @@
 
 
 
-I'm **`Lokaesshwar`** an 22 y.o. CS engineering student from VIT "BHOPAL",
+I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT "BHOPAL",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 Looking to collaborate on **open-source projects**, currently contributing to **GSoC organizations**

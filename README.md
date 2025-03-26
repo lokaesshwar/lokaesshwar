@@ -84,6 +84,21 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
  <p align="center">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </p> 
+
+test
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokaesshwar&theme=tokyonight)
+
+1
+
+<img height="90.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /> 
+
+2
+
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokaesshwar&theme=github_dark" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokaesshwar&theme=github_dark" />
+ </p>
 <!--
 <br/>
 <p align="center">

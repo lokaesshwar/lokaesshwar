@@ -99,6 +99,15 @@ test
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokaesshwar&theme=github_dark" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokaesshwar&theme=github_dark" />
  </p>
+
+ <p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokaesshwar&theme=github_dark" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokaesshwar&theme=github_dark" />
+ </p>
+ 
+  <p align="center">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ </p> 
 <!--
 <br/>
 <p align="center">

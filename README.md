@@ -76,6 +76,13 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 -----
 <details>
 <summary>📈 My GitHub Stats</summary>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokaesshwar&theme=tokyonight)
+
+## 🏆 GitHub Trophies ✨
+![](https://github-profile-trophy.vercel.app/?username=lokaesshwar&theme=tokyonight&no-frame=false&no-bg=true&margin-w)
+
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPythonHacker241212%2Fhit-counter)
   <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokaesshwar&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokaesshwar&theme=github_dark" />

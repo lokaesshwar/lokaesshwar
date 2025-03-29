@@ -1,4 +1,4 @@
-+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Lokaesshwar! 👋
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there! I'm Lokaesshwar! 👋
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+a+Full+Stack+Developer;I'm+a+Competitive+Programmer;I'm+a+React+Developer)](https://git.io/typing-svg)

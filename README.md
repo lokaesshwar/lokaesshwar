@@ -22,13 +22,13 @@ I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT "BHOPAL",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
  
-<!--
+
 - 👀 Looking to collaborate on **open-source projects**, currently contributing to **GSoC organizations**
 - 📜 I work with **JavaScript** projects.
-- 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/)
 - 💬 Either ask me about **Biology** or **JS** 😊
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 How to reach me **lokaesshwar@gmail.com**
+<!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->
 
 
 **Languages and Tools:**  
@@ -48,7 +48,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <code><img height="30" src="./tech/Python.png"></code>
 
 
-
+<!---
 
 
 ## Badges

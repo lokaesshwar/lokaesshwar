@@ -48,7 +48,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <code><img height="30" src="./tech/Python.png"></code>
 
 
-<!---
+
 
 
 ## Badges

@@ -72,7 +72,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 </div>
 
 
-
+<!---
 -----
 <details>
 <summary>📈 My GitHub Stats</summary>

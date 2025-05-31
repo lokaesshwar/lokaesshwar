@@ -57,29 +57,45 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/postman%20logo.png" width="104" height="104" alt="Postman API Fundamentals">
+        <a href="https://drive.google.com/file/d/1lzuXRsfERvwxEknN0CIUKDle3WSHCmBx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/postman%20logo.png" width="104" height="104" alt="Postman API Fundamentals">
+        </a>
         <br>
-        <a href="https://drive.google.com/file/d/1lzuXRsfERvwxEknN0CIUKDle3WSHCmBx/view?usp=sharing">Postman API Fundamentals</a>
+        <a href="https://drive.google.com/file/d/1lzuXRsfERvwxEknN0CIUKDle3WSHCmBx/view?usp=sharing" target="_blank" rel="noopener noreferrer">Postman API Fundamentals</a>
       </td>
       <td align="center">
-        <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/aws%20logo.png" width="104" height="104" alt="AWS-Introduction to Cloud 101">
+        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/aws%20logo.png" width="104" height="104" alt="AWS-Introduction to Cloud 101">
+        </a>
         <br>
-        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url">AWS-Introduction to Cloud 101</a>
+        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url" target="_blank" rel="noopener noreferrer">AWS-Introduction to Cloud 101</a>
       </td>
-            <td align="center">
-        <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" width="104" height="104" alt="25100 Badge">
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" width="104" height="104" alt="Leetcode 100 days Badge">
         <br>
         <span>Leetcode 100 days Badge</span>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f1ae309c-69a2-4679-b692-d62039c42d74" width="104" height="104" alt="Contributor SSOC">
         <br>
         <span>Contributor SSOC</span>
       </td>
-
-  </tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/6f1267d1-e5f4-4217-b3ef-35c5ccc93270" width="104" height="104" alt="GSSOC Badge">
+        <br>
+        <span>GSSOC - Contributor</span>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a40fd783-e042-4fa1-9658-7603fe4d1052" width="104" height="104" alt="Good First Issue Badge">
+        <br>
+        <span>Good First Issue - Contributor</span>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 
@@ -108,6 +124,10 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokaesshwar&theme=tokyonight">
 </p> 
+
+
+
+
 
 
 

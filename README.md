@@ -61,22 +61,26 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
         <br>
         <a href="https://drive.google.com/file/d/1lzuXRsfERvwxEknN0CIUKDle3WSHCmBx/view?usp=sharing">Postman API Fundamentals</a>
       </td>
-       <td align="center">
+      <td align="center">
         <img src="https://github.com/lokaesshwar/lokaesshwar/blob/main/tech/aws%20logo.png" width="104" height="104" alt="AWS-Introduction to Cloud 101">
         <br>
         <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url">AWS-Introduction to Cloud 101</a>
       </td>
-      
-</tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f1ae309c-69a2-4679-b692-d62039c42d74" width="104" height="104" alt="Contributor SSOC">
+        <br>
+        <span>Contributor SSOC</span>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" width="104" height="104" alt="25100 Badge">
+        <br>
+        <span>Leetcode 100 days Badge</span>
+      </td>
+    </tr>
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8faa2311-0d2a-4ed4-9891-010f885452af" alt="CodeChef Badge" height="100"/>
-  <img src="https://github.com/user-attachments/assets/f1ae309c-69a2-4679-b692-d62039c42d74" alt="Contributor SSOC" height="100"/>
-  <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" alt="25100 Badge" height="100"/>
-  <img src="https://github.com/user-attachments/assets/47a5d6c8-1667-4b43-8e0b-4999ac3e8be6" alt="New CodeChef Badge" height="100"/>
-</p>
+
 
 -----
 <details>

@@ -30,7 +30,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 📫 How to reach me **lokaesshwar@gmail.com**
 <!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->
 
-
+<!---
 **Languages and Tools:**  
 
 <code><img height="30" src="./tech/React.png"></code>
@@ -66,17 +66,18 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
         <br>
         <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url">AWS-Introduction to Cloud 101</a>
       </td>
+            <td align="center">
+        <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" width="104" height="104" alt="25100 Badge">
+        <br>
+        <span>Leetcode 100 days Badge</span>
+      </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f1ae309c-69a2-4679-b692-d62039c42d74" width="104" height="104" alt="Contributor SSOC">
         <br>
         <span>Contributor SSOC</span>
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" width="104" height="104" alt="25100 Badge">
-        <br>
-        <span>Leetcode 100 days Badge</span>
-      </td>
-    </tr>
+
+  </tr>
   </table>
 </div>
 

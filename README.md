@@ -18,7 +18,7 @@
 
 
 
-I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT "BHOPAL",
+I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT-BHOPAL ,
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
  
@@ -30,7 +30,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 📫 How to reach me **lokaesshwar@gmail.com**
 <!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->
 
-
+<!---
 **Languages and Tools:**  
 
 <code><img height="30" src="./tech/React.png"></code>

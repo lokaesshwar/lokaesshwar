@@ -30,7 +30,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 📫 How to reach me **lokaesshwar@gmail.com**
 <!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->
 
-<!---
+
 **Languages and Tools:**  
 
 <code><img height="30" src="./tech/React.png"></code>
@@ -71,7 +71,12 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
   </table>
 </div>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8faa2311-0d2a-4ed4-9891-010f885452af" alt="CodeChef Badge" height="100"/>
+  <img src="https://github.com/user-attachments/assets/f1ae309c-69a2-4679-b692-d62039c42d74" alt="Contributor SSOC" height="100"/>
+  <img src="https://github.com/user-attachments/assets/c1cdf453-a506-4541-a59a-842422e6779d" alt="25100 Badge" height="100"/>
+  <img src="https://github.com/user-attachments/assets/47a5d6c8-1667-4b43-8e0b-4999ac3e8be6" alt="New CodeChef Badge" height="100"/>
+</p>
 
 -----
 <details>

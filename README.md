@@ -22,15 +22,15 @@ I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT-BHOPAL ,
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
  
-<!---
+
 - 👀 Looking to collaborate on **open-source projects**, currently contributing to **GSoC organizations**
-- 📜 I work with **JavaScript** projects.
+- 📜 I work with **React** projects.
 - 💬 Either ask me about **Biology** or **JS** 😊
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 How to reach me **lokaesshwar@gmail.com**
 <!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->
 
-<!---
+
 **Languages and Tools:**  
 
 <code><img height="30" src="./tech/React.png"></code>
@@ -104,40 +104,4 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 <summary>📈 My GitHub Stats</summary>
 
 
-<br/>
-
-
-
- <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&theme=tokyonight&layout=compact">
-</p>
-
-<br/>
-  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokaesshwar&theme=tokyonight">
-</p> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</details>
-
+<br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokaesshwar&show_icons=true&count_private=true&theme=radical" alt="lokaesshwar's GitHub Stats"/> </p> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokaesshwar&layout=compact&theme=tokyonight" alt="Top Languages"/> </p> <br/> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokaesshwar&theme=tokyonight" alt="Profile Details"/> </p>

@@ -100,7 +100,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 
 
 -----
-<details>
+
 <summary>📈 My GitHub Stats</summary>
 
 

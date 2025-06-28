@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+a+Full+Stack+Developer;I'm+a+Competitive+Programmer;I'm+a+React+Developer)](https://git.io/typing-svg)
 
 <p align="left">
-  <!--<a href="https://www.geeksforgeeks.org/user/lokaesyuke/" target="blank"> -->
+  <a href="https://www.geeksforgeeks.org/user/lokaesyuke/" target="blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/Lokaesshwar/" target="blank">

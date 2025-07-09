@@ -7,7 +7,7 @@
   <a href="https://www.geeksforgeeks.org/user/lokaesyuke/" target="blank"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Lokaesshwar/" target="blank">
+<!--   <a href="https://leetcode.com/u/Lokaesshwar/" target="blank"> -->
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/lokaesshwar" target="blank">

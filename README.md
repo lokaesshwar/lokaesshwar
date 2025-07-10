@@ -19,7 +19,7 @@
 
 
 I'm **`Lokaesshwar`** a Computer Science Engineering student from VIT-BHOPAL ,
-and a self-taught developer with deep passion for Computer-Science and Technologies
+and a self-taught developer with deep passion for Computer-Science and Technologies.
 
  <!---
 

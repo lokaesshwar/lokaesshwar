@@ -54,15 +54,16 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.credly.com/badges/b0947f50-3f48-46e1-8c35-c4e28a0d14e0/public_url" target="_blank" rel="noopener noreferrer">
           <img src="https://github.com/user-attachments/assets/6ac0f2ad-274e-4ab2-a16f-ac18470cc398" width="104" height="104" alt="AWS Certified Cloud Practitioner">
         </a>
         <br>
-        <a href="https://www.credly.com/badges/1e53dcd3-b994-4836-989b-ab5fd9e44624/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Cloud Practitioner</a>
+        <a href="https://www.credly.com/badges/b0947f50-3f48-46e1-8c35-c4e28a0d14e0/public_url" target="_blank" rel="noopener noreferrer">AWS Certified Cloud Practitioner</a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 

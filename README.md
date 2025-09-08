@@ -25,7 +25,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 
 - 👀 Looking to collaborate on **open-source projects**, currently contributing to **GSoC organizations**
 - 📜 I work with **React** projects.
-- 💬 Either ask me about **Biology** or **JS** 😊
+- 💬 Either ask me about **Cars** or **JS** 😊
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 How to reach me **lokaesshwar@gmail.com**
 <!--- - 👨‍💻 All of my projects are available at [https://lokaesshwar-portfolio.vercel.app/) -->

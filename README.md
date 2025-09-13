@@ -24,7 +24,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
  
 
 
-- 📜 Diving deep into React and actively contributing to open-source projects, including **GSoC organizations**
+- 📜 Diving deep into React and actively contributing to open-source projects.
 - 💬 Either ask me about **Automobiles** or **JS** 😊
 - 🐧 Linux Enthusiast & FOSS supporter.
 - 📫 Want to connect? Drop me a message at **lokaesshwar@gmail.com** 
